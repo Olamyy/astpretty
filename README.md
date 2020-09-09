@@ -1,6 +1,8 @@
 [![Build Status](https://dev.azure.com/asottile/asottile/_apis/build/status/asottile.astpretty?branchName=master)](https://dev.azure.com/asottile/asottile/_build/latest?definitionId=35&branchName=master)
 [![Azure DevOps coverage](https://img.shields.io/azure-devops/coverage/asottile/asottile/35/master.svg)](https://dev.azure.com/asottile/asottile/_build/latest?definitionId=35&branchName=master)
 
+wat
+
 astpretty
 =========
 
